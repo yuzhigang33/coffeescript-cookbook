@@ -3,6 +3,3 @@ class Animal
 
   eat: (food) ->
     console.log food
-
-
-exports.module = Animal
